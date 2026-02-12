@@ -17,6 +17,7 @@
     "gray-matter": "^4.0.3",
     "inquirer": "^9.2.12",
     "marked": "^11.1.1",
+    "ignore": "^6.0.2",
     "marked-terminal": "^6.1.0",
     "ora": "^8.0.1"
   }
